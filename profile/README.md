@@ -1,4 +1,7 @@
-# Undefined Technology 👋
+# Undefined Technology
+
+> *Organização criada para manter os códigos de freelas projetos de estudos da undefined centralizado em um repositorio isolado a fim de facilitar nossas vidas*
+
 
 <!--
 
